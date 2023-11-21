@@ -44,7 +44,7 @@
         }
 
         .header a:hover {
-        font-weight: 600;
+            font-weight: 600;
         }
 
         .header a.active {
@@ -102,7 +102,7 @@
         <div class="soc-title-sub">July - Dec 2023</div>
         <br>
         <br>
-        <img src="images/socv11.svg" class="center">
+        <img src="socv11.svg" class="center">
     </div>
 
     <div class="footer" style="display: flex; margin-left:auto; margin-right: auto; padding: 5% 10%;">
@@ -186,19 +186,20 @@
                 </div>
             </div>
         </div>
-        <div class="col-md-3 footer-text" style="text-decoration: none; width: 25%; padding-left: 5px;">
+        <div class="col-md-3 footer-text"
+            style="font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; width: 25%; padding-left: 5px;">
             <p style="padding-top: 5px;">NayaPay (Private) Limited is authorised and regulated by the State Bank of
                 Pakistan as an Electronic Money Institution.</p>
             <p> NayaPay © 2023. All rights reserved.</p>
-            <br>
+
             <p style="color:#ed5637;">Download the app now!</p>
             <p>
 
                 <a href="https://play.google.com/store/apps/details?id=com.nayapay.app">
-                    <img class="" src="/images/googlestore.svg" alt="Available on Google Store" width="40%">
+                    <img class="" src="googlestore.svg" alt="Available on Google Store" width="40%">
                 </a>
                 <a href="https://apps.apple.com/pk/app/nayapay/id1621286305">
-                    <img class="" src="/images/applestore.svg" alt="Available on Apple Store" width="40%">
+                    <img class="" src="applestore.svg" alt="Available on Apple Store" width="40%">
                 </a>
             </p>
         </div>
